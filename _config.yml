@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://acodingprince.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
-description:
+title: Zing Blog
+subtitle: is everything can be coding?
+author: hzing
+simple_search: https://www.baidu.com/wd
+description: welcome!this is my blogging system using Octopress.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -71,7 +71,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -99,3 +99,9 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+#duoshuo comment
+duoshuo_comment: true
+
+#jia_share
+jia_share: true
